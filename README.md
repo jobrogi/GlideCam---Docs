@@ -17,17 +17,21 @@ GlideCam is a modular RTS-style camera system designed for strategy, simulation,
 ## Installation (FAB Marketplace)
 
 1. **Purchase and add the plugin** via the [Fab Marketplace](https://www.fab.com/portal/listings/e2c9ffb0-84cc-49fa-8ab4-3b98a4187ae3/edit).
-![image](https://github.com/user-attachments/assets/362ad79b-a859-4099-8f73-b4273c0984b1)
-
-
 
 2. **Inside the Epic Games Launcher**, go to the **Library** tab → locate `GlideCam` → click **Add to Project**.
 
+![image](https://github.com/user-attachments/assets/362ad79b-a859-4099-8f73-b4273c0984b1)
+
+
 3. In your Unreal Engine project, go to `Edit → Plugins`, search for **GlideCam**, and ensure the plugin is **enabled**.
+
+![image](https://github.com/user-attachments/assets/f1827add-2b48-4f6b-9206-4eb7fd0ddf0b)
 
 4. **Restart the engine** when prompted.
 
 5. After restarting, the plugin content will appear under:  
+
+![image](https://github.com/user-attachments/assets/2b2b9046-5298-4ef9-ad9b-e8bfd74d5068)
 
 ---
 
