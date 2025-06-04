@@ -14,13 +14,20 @@ GlideCam is a modular RTS-style camera system designed for strategy, simulation,
 
 ---
 
-## Installation
+## Installation (FAB Marketplace)
 
-1. Copy the `GlideCam` plugin folder to your project's `Plugins` directory:
+1. **Purchase and add the plugin** via the [Fab Marketplace](https://www.fab.com/portal/listings/e2c9ffb0-84cc-49fa-8ab4-3b98a4187ae3/edit).
+![image](https://github.com/user-attachments/assets/362ad79b-a859-4099-8f73-b4273c0984b1)
 
-2. Open your project and enable the **Enhanced Input** plugin (Edit → Plugins → Search "Enhanced Input").
 
-3. Add the `BP_GlideCamPawn` Blueprint to your level and set it as the default Pawn or possess it at runtime.
+
+2. **Inside the Epic Games Launcher**, go to the **Library** tab → locate `GlideCam` → click **Add to Project**.
+
+3. In your Unreal Engine project, go to `Edit → Plugins`, search for **GlideCam**, and ensure the plugin is **enabled**.
+
+4. **Restart the engine** when prompted.
+
+5. After restarting, the plugin content will appear under:  
 
 ---
 
@@ -30,7 +37,6 @@ GlideCam is a modular RTS-style camera system designed for strategy, simulation,
 |---------------------|------------------------|
 | Move Camera         | W / A / S / D          |
 | Rotate Camera       | Q (left), E (right)    |
-| Snap Rotation       | Z (left), C (right)    |
 | Reset Orientation   | R                      |
 | Zoom                | Mouse Scroll Wheel     |
 | Drag Pan (RTS-style)| Right Mouse Drag       |
@@ -43,7 +49,6 @@ All input actions can be customized through the `IMC_GlideCamControls` mapping c
 
 - ✅ Smooth glide-based camera movement
 - ✅ Zooming and rotation with inertia
-- ✅ Snapping to 90° angles
 - ✅ RTS-style mouse drag panning
 - ✅ Blueprint-only system — no C++ required
 - ✅ Fully modular and easy to integrate
