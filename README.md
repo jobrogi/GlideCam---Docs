@@ -33,6 +33,31 @@ GlideCam is a modular RTS-style camera system designed for strategy, simulation,
 
 `/All/EngineData/Plugins/GlideCam`
 
+## How To Use 
+
+Theres two ways to use this plugin. 
+
+1. Go to your world settings window -> GameMode Override
+
+   ![image](https://github.com/user-attachments/assets/5bd8259f-2b58-4e15-a678-1d6793fd89c3)
+   
+  -> Then Select `BP_PlayerCharacterGaemode`
+  
+   ![image](https://github.com/user-attachments/assets/afcb630f-da79-4029-8e66-816bf0db287f)
+
+   -> Test out your new Camera Controller!
+
+2. Go to `/All/EngineData/Plugins/GlideCam`
+   -> Here you have access to all the content from GlideCam Lite.
+   
+   ![image](https://github.com/user-attachments/assets/5d9736f2-2bea-4e84-95c2-02cf9c434a29)
+   ![image](https://github.com/user-attachments/assets/e3a55711-a376-4be2-a486-09997107d05f)
+   ![image](https://github.com/user-attachments/assets/c512f855-91d2-483e-b8a1-9ee43ea09513)
+
+   -> From here feel free to Modify and BPs or Inputs via the `Input Actions` Or `Input Mapping Content`!
+   -> Actual Setup is the same as 1. 
+   
+
 ---
 
 ## Default Controls
