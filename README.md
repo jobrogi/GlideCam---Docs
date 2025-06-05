@@ -1,6 +1,5 @@
 # GlideCam – Lite RTS Camera System
 
-**Version:** 1.0.0  
 **Supported UE Versions:** 5.3, 5.4, 5.5, 5.6  
 **Author:** Ghillie Studios  
 **Support:** [Discord](https://discord.gg/6xmYHNKk)  
