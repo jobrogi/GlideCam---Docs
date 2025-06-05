@@ -31,7 +31,7 @@ GlideCam is a modular RTS-style camera system designed for strategy, simulation,
 
 5. After restarting, the plugin content will appear under:  
 
-![image](https://github.com/user-attachments/assets/2b2b9046-5298-4ef9-ad9b-e8bfd74d5068)
+`/All/EngineData/Plugins/GlideCam`
 
 ---
 
