@@ -6,6 +6,16 @@
 **Support:** [Discord](https://discord.gg/6xmYHNKk)  
 **Showcase Video:** [Watch on YouTube](https://youtu.be/Fhj3NfSXJv4)
 
+> **📌 Note:**  
+> We have transitioned to a **plugin-based installation** method via the Fab Marketplace. This change was made to resolve reliability issues with our previous import-based setup, which caused frequent asset path errors and inconsistent behavior between projects.  
+> 
+> After installation through the Fab tab, you can find all included assets under:  
+> ```
+> /All/EngineData/Plugins/GlideCam
+> ```
+> This is expected behavior for engine-installed plugins. If you'd prefer to work directly inside your main content folder, you may manually migrate selected assets into `/Game/` — or use the included utility tools to streamline the process.
+
+
 ---
 
 ## Overview
